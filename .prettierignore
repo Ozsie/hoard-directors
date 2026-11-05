@@ -1,0 +1,11 @@
+# Mirror of the repo-root .prettierignore for the entries that apply here
+# (the root file is not picked up when prettier runs from this folder):
+dist
+node_modules
+
+package.json
+package-lock.json
+tsconfig.json
+tsconfig.build.json
+README.md
+AGENTS.md
