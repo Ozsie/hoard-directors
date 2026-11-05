@@ -30,6 +30,9 @@ This is a HOARD engine package
   framework. Packages compose through data — minimal shapes, callback
   seams, plain values — never through shared state; a new dependency or
   a sibling import here is a design regression, not an optimization.
+- Published to npm as `@hoard-engine/directors` (v0.1.0) and consumed
+  by the game as a `^0.1.0` dependency, like the other HOARD engine
+  packages.
 
 ## Hard boundaries
 
